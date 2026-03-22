@@ -1,0 +1,2 @@
+# Pratyaksha – Bridging Traditional Wisdom and AI for Landslide Risk
+Pratyaksha is a research‑driven platform that fuses centuries‑old soil knowledge (color, texture, smell) with modern machine learning to predict landslide risk. Built on two peer‑reviewed studies from IIT Mandi, it demonstrates how indigenous expertise can enhance scientific forecasting. The system uses FastAPI, SQLite, and Streamlit to collect field data and provide immediate risk insights. A scalable prototype for data‑informed slope management in the Himalayas.
