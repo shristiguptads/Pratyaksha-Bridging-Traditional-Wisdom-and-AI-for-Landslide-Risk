@@ -84,7 +84,7 @@
    ```bash
    streamlit run app.py           #The app will open in your browser at http://localhost:8501.
 
-## 🎯 Usage
+### 🎯 Usage
 1. Adjust the 32 soil feature ratings (each from 1 to 5).
 
 2. Click Check Risk – the backend returns a risk level (Low/Moderate/High), a score, and the top‑three contributing features.
@@ -93,7 +93,7 @@
 
 4. View saved observations by visiting http://localhost:8000/observations/ or using the Streamlit interface (planned).
 
-## 🔮 Future Improvements
+### 🔮 Future Improvements
 - Train a real ML model – Replace the placeholder risk logic with the XGBoost/SFEL ensemble from the research paper using the collected dataset.
 
 - SHAP explanations – Show which features most influence the prediction.
@@ -104,7 +104,7 @@
 
 - Mobile‑friendly UI – Optimise for field use on smartphones.
 
-## 📚 Research Papers
+### 📚 Research Papers
 This project is directly inspired by two studies from IIT Mandi:
 
 1. Sankhyan, S., Sharma, S., Pohal, S., Uday, K. V., & Dutt, V. (2026)
@@ -117,10 +117,10 @@ Bridging traditional and conventional knowledge for soil classification in lands
 Frontiers in Environmental Science. 
 [Link:https://www.researchgate.net/publication/389491805_Bridging_traditional_and_conventional_knowledge_for_soil_classification_in_landslide-prone_areas_using_exploratory_factor_analysis]
 
-## 📄 License
+### 📄 License
 Distributed under the MIT License. See LICENSE for more information.
 
-## 👏 Acknowledgements
+### 👏 Acknowledgements
 - The authors of the two research papers for sharing their work.
 
 - The Indian Institute of Technology Mandi for supporting the original research.
