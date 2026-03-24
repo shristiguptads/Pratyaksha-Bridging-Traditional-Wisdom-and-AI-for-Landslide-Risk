@@ -1,3 +1,6 @@
+⚠️ DISCLAIMER
+This software is a research prototype. The risk prediction model is currently a placeholder (simple average) and has not been validated for real‑world use. Do not rely on this software for safety‑critical decisions. Always consult qualified experts and official sources for landslide risk assessment.
+
 MIT License
 
 Copyright (c) 2026 shristiguptads
